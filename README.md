@@ -1,4 +1,4 @@
-projeto-angular01
+**projeto-angular**
 
 Repositório do primeiro projeto para a disciplina de Front-End
 
