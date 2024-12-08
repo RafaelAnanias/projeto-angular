@@ -1,27 +1,14 @@
-# Projeto01
+projeto-angular01
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.12.
+Repositório do primeiro projeto para a disciplina de Front-End
 
-## Development server
+Esse projeto foi realizado pelos alunos Rafael Ananias e Alexssandro Moura
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Para o projeto utilizamos o angular 18 e o scss.
 
-## Code scaffolding
+Nesse projeto tivemos a ideia de criar uma página de uma empresa fictícia de consultoria de investimentos chamada Capital Equilibrado.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+A página mostra a desrição da empresa, suas princiapis vantagens e na parte final tem um formulário onde é possível realizar a inscrição para comprar os serviços da consultoria.
 
-## Build
+No projeto tem todos os components necessários para garantir uma boa estrutura na página, não utilizamos a estilização do bootstrap, mas fizemos nosso melhor para garantir que a estilização com scss ficasse a melhor possível.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
